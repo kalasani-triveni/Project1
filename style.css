@@ -1,0 +1,22 @@
+
+form{
+    text-align: center;
+    background-color:aquamarine;
+    margin:  0px 500px 0px 500px;
+}
+marquee{
+    font-size:large;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+
+input[type=submit]
+{
+    background-color: blanchedalmond;
+}
+input[type=submit]:hover
+{
+    background-color: pink;
+}

@@ -1,0 +1,29 @@
+label{
+    display: block;
+    padding:10px;
+}
+form{
+    text-align: center;
+    background-color:aquamarine;
+    margin: 0px 500px 0px 500px;
+}
+h1{
+    text-align: center;
+}
+#submit
+{
+    padding:10 px;
+}
+marquee{
+    font-size: large;
+    background-color: aliceblue;
+}
+
+input[type=submit]
+{
+    background-color: blanchedalmond;
+}
+input[type=submit]:hover
+{
+    background-color: pink;
+}
